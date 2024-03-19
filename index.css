@@ -1,0 +1,120 @@
+.temp{
+  position: relative;
+  text-align: center;
+  color: white;
+  
+   width: 100%;
+   height: 20%;
+   background-color:rgba(118, 184, 245, 0.856) ;
+}
+.temp1
+{
+    position: relative;
+    text-align: center;
+    color: white;
+   margin-top: 20px;
+   width: 100%;
+   height: 100%;
+   background-color: rgba(0, 153, 255, 0.397);
+   color:white;
+   text-align: center;
+}
+img{
+width: 100%;
+}
+.sub{
+  height: 10px;
+  width: 10px;
+  background-color: pink;
+  display: flex;
+}
+.pos1{
+    position: absolute;
+    color:bisque;
+  top: 150px;
+  left: 10px;
+
+width: 50px;
+height: 40px;
+padding-left: 20px;
+}
+.pos2{
+  position: absolute;
+  color: bisque;
+top: 180px;
+left: 10px; 
+padding-left: 20px;
+}
+.pos3{
+  
+  position: absolute;
+top: 210px;
+left: 10px;
+color: bisque;
+padding-left: 20px;
+}
+.cont5{
+  position: relative;
+  bottom:1100px;
+  width: 100%;
+  color:white;
+  background-color:rgba(118, 184, 245, 0.856);
+  margin: 0px 0px 20px 0px;
+  padding-left: 20px;
+  height: 80px;
+}
+.cont1{
+  position: relative;
+  background-color:rgba(247, 153, 167, 0.808);
+  bottom: 1500px;
+  height: 1250px;
+  width: 100px;
+  margin: 50px 0px 0px 1300px;
+}
+.top{
+  position: absolute;
+  margin: 250px 0px 0px 0px;
+  top: 80px;
+}
+.lev2{
+  position: relative;
+  color:azure;
+ bottom: 2200px;
+ margin-right: 1600px;
+ text-align: left;
+ 
+ 
+ }
+
+.di{
+  position: absolute;
+top: 1400px;
+margin-left: 1109px;
+  
+  text-align: right;
+  background-color:rgba(32, 102, 167, 0.856);
+  height:65px;
+  width: 300px;
+  color: beige;
+}
+.ma1{
+  position: absolute;
+  top: 1350px;
+  color: bisque;
+
+}
+.top1{
+  position: relative;
+  top: 500px;
+}
+.logo{
+  position: relative;
+  top: 180px;
+}
+.img{
+  position: relative;
+  top: 500px;
+}
+
+
+
